@@ -48,7 +48,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 Keylla Lopes  
 [GitHub](https://github.com/keylopes) 
 
-
+<img src="/keylla_P&B.png" width="80">
 ---
 
 ⌨️ com 💜 por [Keylla Lopes](https://github.com/keylopes)
